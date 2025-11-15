@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "BlueprintSubsystems",
+	"Description": "Simple plugin for easily creating Blueprint custom subsystems",
+	"Category": "Other",
+	"CreatedBy": "Lewan24",
+	"CreatedByURL": "https://github.com/Lewan24",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.6.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "BlueprintSubsystems",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

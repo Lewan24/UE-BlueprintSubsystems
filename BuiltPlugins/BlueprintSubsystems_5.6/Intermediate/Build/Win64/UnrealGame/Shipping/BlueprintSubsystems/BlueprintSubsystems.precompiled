@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\BlueprintSubsystems\\Module.BlueprintSubsystems.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\BlueprintSubsystems\\BlueprintGameInstanceSubsystem.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\BlueprintSubsystems\\BlueprintSubsystems.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\BlueprintSubsystems\\BlueprintSubsystemsBPLibrary.cpp.obj"
+	]
+}
